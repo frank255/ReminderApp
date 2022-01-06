@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ReminderApp</string>
+    <string name="addevent">Add event</string>
+    <string name="Title">Title:</string>
+    <string name="Date">Date:</string>
+    <string name="Time">Time:</string>
 </resources>
